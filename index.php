@@ -13,3 +13,5 @@ $app->get('/', function() use($app) {
 
 //executa
 $app->run();
+
+//Comentário para Badge Code Squad
